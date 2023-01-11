@@ -1,13 +1,3 @@
-### Hi there 👋
-
-
-<br>
-<div align="center"> 
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuntaeLee&count_private=true&theme=nord&show_icons=true)
-
-</div>
-
 <!--
 **yuntaeLee/yuntaeLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
