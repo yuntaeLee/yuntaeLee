@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytlee1201)](https://solved.ac/ytlee1201/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytlee1201)](https://solved.ac/ytlee1201/)
 </div>  
   
   
