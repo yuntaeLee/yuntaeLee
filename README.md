@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytlee1201)](https://solved.ac/ytlee1201/)
-  ![svg](https://raw.githubusercontent.com/yuntaeLee/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytlee1201)](https://solved.ac/ytlee1201/)
 </div>  
   
   
